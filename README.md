@@ -1,5 +1,6 @@
 # Mixed-Messages
-A little application for the daily shot of philosophy.
+A little application for the daily shot of philosophy. 
+Focus is not on design but on training javascript skills.
 
 ## Project description (Codecademy)
 
